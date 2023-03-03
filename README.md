@@ -1,6 +1,6 @@
 # Sysprofile-Dockerized
 
-Dockerized version of the Sysprofiler forensic tool by (khyrenz.com)[https://github.com/khyrenz/sysprofiler]
+Dockerized version of the Sysprofiler forensic tool by [khyrenz](https://github.com/khyrenz/sysprofiler).
 
 
 ## Build
